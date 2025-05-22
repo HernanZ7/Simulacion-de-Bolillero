@@ -1,0 +1,11 @@
+E:\SimulacionBolillero\Bolillero\bin\Debug\net9.0\Bolillero.deps.json
+E:\SimulacionBolillero\Bolillero\bin\Debug\net9.0\Bolillero.dll
+E:\SimulacionBolillero\Bolillero\bin\Debug\net9.0\Bolillero.pdb
+E:\SimulacionBolillero\Bolillero\obj\Debug\net9.0\Bolillero.GeneratedMSBuildEditorConfig.editorconfig
+E:\SimulacionBolillero\Bolillero\obj\Debug\net9.0\Bolillero.AssemblyInfoInputs.cache
+E:\SimulacionBolillero\Bolillero\obj\Debug\net9.0\Bolillero.AssemblyInfo.cs
+E:\SimulacionBolillero\Bolillero\obj\Debug\net9.0\Bolillero.csproj.CoreCompileInputs.cache
+E:\SimulacionBolillero\Bolillero\obj\Debug\net9.0\Bolillero.dll
+E:\SimulacionBolillero\Bolillero\obj\Debug\net9.0\refint\Bolillero.dll
+E:\SimulacionBolillero\Bolillero\obj\Debug\net9.0\Bolillero.pdb
+E:\SimulacionBolillero\Bolillero\obj\Debug\net9.0\ref\Bolillero.dll
